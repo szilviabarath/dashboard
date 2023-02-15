@@ -59,6 +59,7 @@ export default {
     margin-left: 0.9rem;
 }
 
+
 h1 {
     font-size: 1rem;
     font-style: bold;
